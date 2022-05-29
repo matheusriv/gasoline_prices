@@ -61,7 +61,7 @@ Para iniciar o dashboard no streamlit localmente, no terminal, você pode execut
 streamlit run app.py
 ```
 
-Para visitar o dashboard online é só acessar o link: https://share.streamlit.io/matheusriv/mlops_2022.1/main/Projeto_01/app_web.py
+Para visitar o dashboard online é só acessar o link: https://share.streamlit.io/matheusriv/gasoline_prices/main/app.py
 
 ## 🎥 Vídeo
 
